@@ -8,7 +8,7 @@ To design and deliver a comprehensive and interactive Power BI dashboard that vi
 
 ## 🗃️ Dataset Used
 
-**Source:** Superstore Dataset  
+**Source:** Superstore dataset.csv
 **Contents:**  
 - Sales, Profit, Quantity  
 - Product Categories & Sub-categories  
